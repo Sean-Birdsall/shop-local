@@ -1,0 +1,17 @@
+{
+  "name": "shop-local",
+  "version": "1.0.0",
+  "description": "An application to find the local business that sells a certain product or product type.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shop",
+    "local",
+    "business",
+    "economy"
+  ],
+  "author": "Sean Birdsall, Jesse Nuese Yaker, Jeff Bertucci",
+  "license": "ISC"
+}
